@@ -1,1 +1,1 @@
-**#Exercise 4.24**
+# Exercise 4.24
