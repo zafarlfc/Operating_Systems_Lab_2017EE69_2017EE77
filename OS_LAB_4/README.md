@@ -1,4 +1,4 @@
-<br> Use gcc 4-24.c -pthread to compile the C files and similarly for other files. The compiled files with .out extension are also provided.<br>
+<br> Use gcc 4-24.c -pthread to compile the C file and similarly other C files. The compiled files with .out extension are also provided.<br>
 # Exercise 4.24
 In this exrcise we the computed the estimated value of pi using the monte carlo approach. We implemented it using threads.
 <br><br>
