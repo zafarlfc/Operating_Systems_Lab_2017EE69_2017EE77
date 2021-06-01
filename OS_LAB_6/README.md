@@ -1,9 +1,9 @@
 # Virtual Memory Manager
 To compile the file type fooloe=wing in the terminal and press enter
  ```
- gcc lab6.c -o lab6 
+ gcc LAB6correct.c -o LAB6correct 
 ```
 To run the compiled file type following and press enter
 ```
-./lab6
+./LAB6correct
 ```
